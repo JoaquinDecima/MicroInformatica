@@ -43,7 +43,7 @@ No son estrictamente iguales, tienen sus diferencias
 * El **-**: Se utiliza para decir que un aminoacido no esta precente en otras cadenas
 * El *: Se utiliza para marcar que tienen en comun x pocicion de aminoacidos
 * El **:**: No identifico
-* Los **colores** marcan el tipo de aminoacido
+* Los **colores** marcan el tipo de aminoacido y/o propiedades fisicoquimicas
 
 ### A simple vista, ¿se conserva la secuencia del citocromo c en los organismos?
 
@@ -57,4 +57,4 @@ Se podria realizas subgupos que tienen mayor nivel de coincidencia. Por lo que p
 
 Creo que esta estrechamiente relacionado con como fueron evolucionando, aquellos que tienen mas mutaciones similares comparten mas porcentaje de la cadena de aminoacidos
 
-### 
+###
